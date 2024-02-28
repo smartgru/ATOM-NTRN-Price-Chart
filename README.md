@@ -12,3 +12,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Components
 
 The project is using [React-HighChart](https://github.com/highcharts/highcharts-react) to draw charts for $ATOM-$NTRN pair
+
+
+## Deployment
+
+This project will be hosted in github pages by using [gh-pages](https://www.npmjs.com/package/gh-pages)
