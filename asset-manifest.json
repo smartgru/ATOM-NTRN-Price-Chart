@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/atom-ntrn-price-chart/static/css/main.e6c13ad2.css",
-    "main.js": "/atom-ntrn-price-chart/static/js/main.08a78fd5.js",
-    "static/js/453.e9db620d.chunk.js": "/atom-ntrn-price-chart/static/js/453.e9db620d.chunk.js",
-    "index.html": "/atom-ntrn-price-chart/index.html",
-    "main.e6c13ad2.css.map": "/atom-ntrn-price-chart/static/css/main.e6c13ad2.css.map",
-    "main.08a78fd5.js.map": "/atom-ntrn-price-chart/static/js/main.08a78fd5.js.map",
-    "453.e9db620d.chunk.js.map": "/atom-ntrn-price-chart/static/js/453.e9db620d.chunk.js.map"
+    "main.css": "/ATOM-NTRN-Price-Chart/static/css/main.e6c13ad2.css",
+    "main.js": "/ATOM-NTRN-Price-Chart/static/js/main.f0e9f98a.js",
+    "static/js/453.e9db620d.chunk.js": "/ATOM-NTRN-Price-Chart/static/js/453.e9db620d.chunk.js",
+    "index.html": "/ATOM-NTRN-Price-Chart/index.html",
+    "main.e6c13ad2.css.map": "/ATOM-NTRN-Price-Chart/static/css/main.e6c13ad2.css.map",
+    "main.f0e9f98a.js.map": "/ATOM-NTRN-Price-Chart/static/js/main.f0e9f98a.js.map",
+    "453.e9db620d.chunk.js.map": "/ATOM-NTRN-Price-Chart/static/js/453.e9db620d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.08a78fd5.js"
+    "static/js/main.f0e9f98a.js"
   ]
 }
