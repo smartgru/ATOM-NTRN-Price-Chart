@@ -2,7 +2,7 @@
   "name": "atom-ntrn",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://smartgru.github.io/atom-ntrn-price-chart",
+  "homepage": "https://smartgru.github.io/ATOM-NTRN-Price-Chart/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
